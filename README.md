@@ -1,4 +1,4 @@
-# Analyzing-Temperature-Data
+# Analyzing Temperature Data
 
 ## INTRODUCTION
 This project aims to analyze a data set representing global and local temperature. The main tool is Excel where we studied 
